@@ -4,9 +4,8 @@ Vanity URL name
 ">Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Cybsersecurity Projects:</h2>
-
-
-  - [Active Directory Home Lab]
+-[Security Alerting AWS project]
+-[Active Directory Home Lab]
 
 
 <!--
