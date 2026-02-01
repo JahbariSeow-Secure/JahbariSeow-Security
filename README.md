@@ -1,11 +1,14 @@
 <h1>Hi, I'm Jahbari! <br/>
-<a href="https://github.com/joshmadakor1">Programmer</a>, 
+<a href="https://github.com/YOUR_GITHUB_USERNAME">IT / Cloud Security Professional</a>, 
 <a href="https://www.linkedin.com/in/jahbari-seow">Cybersecurity Professional</a>
 </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-<ul>
-  <li>Azure VM Honeypot Project</li>
-</ul>
 <p>
-I am passionate about cybersecurity and love tackling complex challenges through hands-on projects, ranging from vulnerability management to threat detection and incident response. These projects allow me to dive deep into the constantly evolving cybersecurity landscape, strengthen my technical skills, and apply real-wor
+I am passionate about cybersecurity and identity management, with hands-on experience in cloud security, Microsoft Entra ID, and access control. I enjoy building practical security projects that reflect real-world enterprise environments.
+</p>
+
+<h2>👨‍💻 Cybersecurity & Identity Projects</h2>
+<ul>
+  <li><b>Microsoft Entra ID Identity & Access Management Lab</b></li>
+  <li><b>Azure VM Honeypot & Threat Monitoring</b></li>
+</ul>
