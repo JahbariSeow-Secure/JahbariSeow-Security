@@ -1,37 +1,35 @@
 <h1>Hi, I'm Jahbari! 👋<br/>
-<a href="https://github.com/jahbariseow-secure">Cloud & Security Professional</a> | 
-<a href="https://www.linkedin.com/in/jahbari-seow">Cybersecurity & Identity Specialist</a>
+<a href="https://github.com/jahbariseow-secure">Azure Platform Engineer</a> | 
+<a href="https://www.linkedin.com/in/jahbari-seow">Cloud Infrastructure & Automation</a>
 </h1>
 
 <p>
-I am passionate about cybersecurity, cloud operations, and identity management. I enjoy building <b>real-world, enterprise-style projects</b> that demonstrate security, monitoring, automation, and access control in cloud environments. My goal is to bridge <b>cloud engineering</b> with <b>cybersecurity and identity best practices</b>.
+I am passionate about building and automating <b>enterprise-scale cloud platforms</b> in Azure. I focus on designing secure, scalable infrastructure using <b>Infrastructure as Code, CI/CD pipelines, and cloud-native services</b>. My goal is to build <b>reliable, governed, and production-ready cloud environments</b> with strong foundations in automation, networking, and security.
 </p>
 
 <h2>🚀 Featured Projects</h2>
 <ul>
   <li>
-    <b>Azure App Service Monitoring & Security Lab</b> – Deployed and secured a production-style Azure App Service workload with 
-    <i>IP access restrictions, centralized logging to Log Analytics, CPU alerts with Action Groups, and Defender for Cloud security posture monitoring</i>.
+    <b>Azure Enterprise Landing Zone & CI/CD Platform</b> – Built a governed Azure platform using 
+    <i>Terraform, GitHub Actions, and Azure DevOps</i>, implementing <b>management groups, policy enforcement, RBAC, and hub-and-spoke networking</b> to standardize and automate infrastructure deployments.
   </li>
 
   <li>
-    <b>Azure SIEM & Honeypot SOC Lab</b> – Built a cloud-based SOC lab by deploying a Windows honeypot VM, configuring 
-    <i>VNets, NSGs, Azure Monitor, Log Analytics, AMA, and KQL queries</i> to detect, analyze, and investigate real attack telemetry.
+    <b>Azure Monitoring & Observability Platform</b> – Designed centralized monitoring using 
+    <i>Azure Monitor, Log Analytics, and Microsoft Sentinel</i> to provide <b>real-time visibility, alerting, and incident detection</b> across cloud resources.
   </li>
 
   <li>
-    <b>Microsoft Entra ID – Bulk User Provisioning Automation</b> – Automated provisioning of <b>1,000+ users</b> using 
-    <i>PowerShell and the Microsoft Graph SDK</i>, including delegated authentication, execution policy handling, 
-    duplicate UPN resolution, and CSV-based audit output.
+    <b>Azure Data Platform (PaaS Architecture)</b> – Developed a scalable data platform using 
+    <i>Azure Data Factory, Data Lake, and Azure SQL</i>, integrating <b>Key Vault and managed identities</b> for secure and automated data workflows.
   </li>
 
   <li>
-    <b>Microsoft Entra ID – Identity & Access Management Lab</b> – Implemented enterprise identity governance using 
-    <i>Privileged Identity Management (PIM), Conditional Access, Access Packages, and Access Reviews</i> to enforce 
-    <b>Zero Trust and least-privilege access</b>.
+    <b>CI/CD Automation for Infrastructure</b> – Implemented end-to-end infrastructure automation pipelines using 
+    <i>GitHub Actions with OIDC authentication</i>, enabling <b>secure, auditable, and fully automated Terraform deployments</b>.
   </li>
 </ul>
 
 <p>
-These projects demonstrate my ability to combine <b>cloud engineering, security operations, identity automation, and monitoring</b> to solve real-world problems and implement enterprise-grade best practices.
+These projects demonstrate my ability to design and operate <b>enterprise cloud platforms</b> with a focus on <b>automation, scalability, governance, and security</b>.
 </p>
