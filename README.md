@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jahbari! 👋<br/>
+<h1>Hi, I'm Jahbari! <br/>
 <a href="https://github.com/jahbariseow-secure">Azure Platform Engineer</a> | 
 <a href="https://www.linkedin.com/in/jahbari-seow">Cloud Infrastructure & Automation</a>
 </h1>
@@ -7,7 +7,7 @@
 I am passionate about building and automating <b>enterprise-scale cloud platforms</b> in Azure. I focus on designing secure, scalable infrastructure using <b>Infrastructure as Code, CI/CD pipelines, and cloud-native services</b>. My goal is to build <b>reliable, governed, and production-ready cloud environments</b> with strong foundations in automation, networking, and security.
 </p>
 
-<h2>🚀 Featured Projects</h2>
+<h2>Featured Projects</h2>
 <ul>
   <li>
     <b>Azure Enterprise Landing Zone & CI/CD Platform</b> – Built a governed Azure platform using 
